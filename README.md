@@ -8,6 +8,7 @@ The overall project PI is [Dr. Hridesh Rajan](https://www.cs.iastate.edu/~hrides
 The BGSU site is led by [Dr. Robert Dyer](https://www.cs.bgsu.edu/rdyer/).
 The UCF site is led by [Dr. Gary T. Leavens](https://www.eecs.ucf.edu/~leavens/).
 The PSU site is led by [Dr. Vasant G. Honavar](https://faculty.ist.psu.edu/vhonavar/).
+The UT Dallas site is led by [Dr. Tien N. Nguyen](www.utdallas.edu/~tien.n.nguyen/).
 
 ### Problems and Goals
 
