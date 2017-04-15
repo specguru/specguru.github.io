@@ -12,7 +12,7 @@ The UT Dallas site is led by [Dr. Tien N. Nguyen](www.utdallas.edu/~tien.n.nguye
 
 ### Problems and Goals
 
-Despite their proven benefits, useful, comprehen- sible, and efficiently checkable 
+Despite their proven benefits, useful, comprehensible, and efficiently checkable 
 specifications are not widely available. This is primarily because writing useful, 
 non-trivial specifications from scratch is too hard, time consuming, and requires 
 expertise that is not broadly available. Furthermore, the lack of specifications 
@@ -41,7 +41,7 @@ This project has led to the following publications and other products.
    ICSE'15: The 37th International Conference on Software Engineering, Florence, Italy, May 2015.
 2. Hoan Anh Nguyen, Robert Dyer, Tien N. Nguyen, and Hridesh Rajan, 
    "Mining preconditions of APIs in large-scale code corpus," 
-   In Proceedings of the 22nd ACM SIGSOFT International Symposium on Foundations of 
+   FSE'14: The 22nd ACM SIGSOFT International Symposium on Foundations of 
    Software Engineering (FSE 2014). ACM, New York, NY, USA, 166-177. DOI: <http://dx.doi.org/10.1145/2635868.2635924>
 
 ### Acknowledgements
