@@ -43,11 +43,19 @@ This project has led to the following publications and other products.
    "Mining preconditions of APIs in large-scale code corpus," 
    FSE'14: The 22nd ACM SIGSOFT International Symposium on Foundations of 
    Software Engineering (FSE 2014). ACM, New York, NY, USA, 166-177. DOI: <http://dx.doi.org/10.1145/2635868.2635924>
+3. Samantha Syeda Khairunnesa, Hoan Anh Nguyen, Tien N. Nguyen, and Hridesh Rajan, 
+   "Exploiting Implicit Beliefs to Resolve Sparse Usage Problem in Usage-based Specification Mining," 
+   OOPSLA’17: The ACM SIGPLAN conference on Object-Oriented Programming, Systems, Languages, 
+   and Applications, October, 2017. DOI: <https://doi.org/10.1145/3133907>
+4. Hung Phan, Hoan Anh Nguyen, Tien N. Nguyen, and Hridesh Rajan, 
+   "Statistical Learning for Inference Between Implementations and Documentation," 
+   ICSE'17: The 39th International Conference on Software Engineering: 
+   New Ideas and Emerging Results Track, May, 2017. DOI: <https://doi.org/10.1109/ICSE-NIER.2017.9>
 
 ### Acknowledgements
 
 This project has been supported in part by the US National Science Foundation under the grant 
-``SHF: Large:Collaborative Research: Inferring Software Specifications from Open Source 
+"SHF: Large:Collaborative Research: Inferring Software Specifications from Open Source 
 Repositories by Leveraging Data and Collective Community Expertise."
 PI: Hridesh Rajan and Co-I: Robert Dyer, Tien Nguyen, Gary T. Leavens, and Vasant Honavar (2015-2018).
 Links: [ISU](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1518897), 
